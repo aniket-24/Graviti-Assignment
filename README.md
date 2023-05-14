@@ -3,7 +3,7 @@
 
 <h2 align="center">
 
-[Visit Website](https://puzzle-application-game.netlify.app/)
+[Visit Website](https://graviti-frontend-assignment.netlify.app/)
 
 </h2>
 
