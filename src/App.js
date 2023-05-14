@@ -66,6 +66,9 @@ function App() {
   return (
     <>
       <div className="App container card shadow border-0 bg-body-tertiary rounded mt-4 p-5">
+        {/* <ImageListItem key="1">
+          <img src={logo} alt="Graviti-logo" loading="lazy" />
+        </ImageListItem> */}
         <h4 className="text-center">
           Let's calculate <strong> distance </strong> from Google maps
         </h4>
