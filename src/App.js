@@ -94,16 +94,13 @@ function App() {
                 <Autocomplete>
                   <DynamicInput
                     inputName="location"
-                    addButtonText="Add"
+                    addButtonText="➕ Add another stop"
                     setInput={setWaypoint}
                     input={waypoint}
                     addPosition="bottom"
                     type="text"
                   />
                 </Autocomplete>
-                <span className="text-muted">
-                  Please type name like :- Satna, Rewa. (only for stoppage){" "}
-                </span>
               </div>
 
               <div className="mb-3">
