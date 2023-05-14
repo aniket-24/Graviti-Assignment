@@ -7,7 +7,7 @@
 
 </h2>
 
-![Graviti-Assignment]()
+![Graviti](https://github.com/aniket-24/Graviti-Assignment/assets/76562459/fd7eebda-9152-4a12-8b7d-d48c9c174367)
 
 <hr>
 
